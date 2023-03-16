@@ -1,0 +1,1 @@
+# jenkinskurulumu-zabbix-ile-monitoring-edilmesi
